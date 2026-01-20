@@ -1,8 +1,8 @@
 class NhncloudCli < Formula
   desc "Command line interface for NHN Cloud services"
   homepage "https://github.com/haung921209/nhn-cloud-cli"
-  url "https://github.com/haung921209/nhn-cloud-cli/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "323b7a7fd6e79d2e16e6139b0d59d063f5a822031eaa2ca59603832f1d60bc93"
+  url "https://github.com/haung921209/nhn-cloud-cli/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "3a4f94845c0523e0e50fe7077056ecd2ad2c6bbcaac0452fb0aec28d879fe493"
   license "Apache-2.0"
 
   depends_on "go" => :build
